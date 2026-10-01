@@ -2,6 +2,10 @@
 
 A local-first fish behavior analysis app. Recordings are analyzed on the same computer and are never sent to a remote service.
 
+## App preview
+
+![AMS AgriPro Fish Analysis interface](screenshots/fish-analysis.png)
+
 ## Run locally
 
 ```sh
